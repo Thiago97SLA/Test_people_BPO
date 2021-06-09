@@ -1,0 +1,25 @@
+.padding-fomr{
+    padding: 0em 2em 0em 2em;
+}
+
+.margin-div-topinputs{
+    margin: 1em 0em 0em 0em;
+}
+
+.btn-style{
+    margin: 0em 1em 0em 1em;
+    width: 80px;
+    height:40px;
+    text-align: center;
+}
+
+.padding-table{
+    padding: 1em 1em 1em 1em;
+}
+
+
+.tr-table{
+    
+    font-size: 5;
+    font-weight: 300;
+}
